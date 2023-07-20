@@ -1,0 +1,6 @@
+@import url('https://cdn.jsdelivr.net/npm/twemoji-colr-font/twemoji.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+
+.x-emoji {
+    font-family: Twemoji, "Noto Color Emoji", sans-serif;
+}

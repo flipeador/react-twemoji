@@ -1,0 +1,40 @@
+{
+  "name": "@flipeador/react-twemoji",
+  "description": "Provides standard Unicode emoji support across all platforms.",
+  "version": "2.0.0",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "reactjs",
+    "twemoji",
+    "noto-emoji"
+  ],
+  "license": "gpl-3.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flipeador/react-twemoji.git"
+  },
+  "author": "Flipeador (https://github.com/flipeador)",
+  "bugs": {
+    "url": "https://github.com/flipeador/react-twemoji/issues"
+  },
+  "homepage": "https://github.com/flipeador/react-twemoji#readme",
+  "type": "module",
+  "peerDependencies": {
+    "react": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
