@@ -1,6 +1,6 @@
 # React Twemoji (SVG)
 
-Provides standard Unicode emoji support across all platforms for [ReactJS][react].
+Provides standard Unicode emoji support across all platforms for [React][react].
 
 This library simply allows to parse a string and wrap emoji characters in a span element with a font such that all emojis are properly displayed.
 
@@ -17,8 +17,6 @@ npm install flipeador/react-twemoji
 ## Example
 
 ```js
-/* eslint-disable react-refresh/only-export-components */
-
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import twemoji from '@flipeador/react-twemoji';
@@ -45,7 +43,7 @@ root.render(
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0**. See the [license file](LICENSE) for details.
+This project is licensed under the **Apache License 2.0**. See the [license file](LICENSE) for details.
 
 <!-- REFERENCE LINKS -->
 [react]: https://react.dev
