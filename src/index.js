@@ -1,4 +1,4 @@
-﻿/*
+/*
     React Twemoji (SVG).
     https://github.com/flipeador/react-twemoji
 
